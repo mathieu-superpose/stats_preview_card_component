@@ -23,15 +23,15 @@ Users should be able to:
 
 ### Screenshots
 
-Desktop:
+##Desktop:
 ![](./src/img/desktop-preview.jpg)
 
-Mobile:
+##Mobile:
 ![](./src/img/mobile-preview.jpg)
 
 ### Links
 
-- [Live Site URL](https://your-live-site-url.com)
+- [Live Site URL](https://mathieu-superpose.github.io/stats_preview_card_component/)
 
 ## My process
 
