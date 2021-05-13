@@ -41,8 +41,8 @@ Users should be able to:
 
 ### Useful resources
 
-[Add a color overlay to a background image](https://stackoverflow.com/questions/36679649/how-to-add-a-color-overlay-to-a-background-image/36679903)
-[Image contrast](https://developer.mozilla.org/en-US/docs/Web/CSS/filter-function/contrast())
+- [Add a color overlay to a background image](https://stackoverflow.com/questions/36679649/how-to-add-a-color-overlay-to-a-background-image/36679903)
+- [Image contrast](https://developer.mozilla.org/en-US/docs/Web/CSS/filter-function/contrast())
 
 ## Author
 
