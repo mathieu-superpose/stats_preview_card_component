@@ -23,10 +23,10 @@ Users should be able to:
 
 ### Screenshots
 
-##Desktop:
+## Desktop:
 ![](./src/img/desktop-preview.jpg)
 
-##Mobile:
+## Mobile:
 ![](./src/img/mobile-preview.jpg)
 
 ### Links
